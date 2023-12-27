@@ -5,7 +5,7 @@
 #
 Name     : pypi-zabbix_api
 Version  : 0.5.6
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/4a/ce/893d6ab7e978d0c00d9154c0cf385016b862438da069302e7ceac0f6c429/zabbix-api-0.5.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/4a/ce/893d6ab7e978d0c00d9154c0cf385016b862438da069302e7ceac0f6c429/zabbix-api-0.5.6.tar.gz
 Summary  : Zabbix API
